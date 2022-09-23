@@ -1,0 +1,7 @@
+SpeechRecognition
+beautifulsoup4
+gTTS
+pyglet
+scikit-learn
+soundfile
+
