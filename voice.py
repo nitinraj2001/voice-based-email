@@ -25,7 +25,7 @@ import datetime
 path_of_files = "assets/"
 
 sender_mail_address='development2001nr@gmail.com'
-password_of_sender = "oajvbingbwowgsvr"
+password_of_sender = "qqgaojenabdcisjt"
 #maillist to restrict send address
 validMailList = ["nitinraj2001"]
 
@@ -120,7 +120,7 @@ def main():
         print("Could not request results from Google Speech Recognition service; {0}".format(e))
     if text == '1' or text == 'One' or text == 'one':
         compose()
-    elif text == '2' or text == 'tu' or text == 'two' or text == 'Tu' or text == 'to' or text == 'To':
+    elif text == '2' or text == 'Tu' or text == 'two' or text == 'tu' or text == 'to' or text == 'To':
         readMail()
     else:
         tts = gTTS(text="Invalid Choice please try again.", lang='en')
