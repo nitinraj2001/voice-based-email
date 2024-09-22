@@ -25,7 +25,7 @@ import datetime
 path_of_files = "assets/"
 
 sender_mail_address='development2001nr@gmail.com'
-password_of_sender = "qqgaojenabdcisjt"
+password_of_sender = ""
 #maillist to restrict send address
 validMailList = ["nitinraj2001"]
 
